@@ -1,0 +1,6 @@
+Name,Description,Latitude,Longitude,Color
+John,,-35.319033,149.102634,deeppurple
+Nimble,,-35.321112,149.098057,lightblue
+Xavier,Bleak Tavern,-35.3194095,149.1372286,cyan
+Oleg,,-35.341444,149.108850,teal
+Zack,Auto Show,-35.3569369,149.0909415,deeporange
